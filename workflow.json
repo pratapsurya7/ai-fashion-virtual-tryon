@@ -1,0 +1,34 @@
+{
+  "last_node_id": 12,
+  "last_link_id": 20,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "Load Checkpoint"
+    },
+    {
+      "id": 2,
+      "type": "Load Image"
+    },
+    {
+      "id": 3,
+      "type": "IPAdapter"
+    },
+    {
+      "id": 4,
+      "type": "OpenPose"
+    },
+    {
+      "id": 5,
+      "type": "ControlNet"
+    },
+    {
+      "id": 6,
+      "type": "KSampler"
+    },
+    {
+      "id": 7,
+      "type": "VAE Decode"
+    }
+  ]
+}
